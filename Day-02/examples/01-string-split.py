@@ -1,3 +1,3 @@
-text = "Python is awesome"
+text = "Dandappa Ramesh Praneeth Srinivas"
 words = text.split()
 print("Words:", words)
